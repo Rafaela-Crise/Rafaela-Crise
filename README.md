@@ -1,4 +1,4 @@
-## Oiii! eu sou a Rafaela-Crise!! 👋
+## Oiii! eu sou a Rafaela!! 👋
 
 - 🔭 Atualmente estou trabalhando em um projeto de iniciação científica no Laboratório SEA (Soluções e Estudos Avançados), focado na criação de um orquestrador com base em aprendizado de máquina para gerenciar recursos em um espaço inteligente.
 - 🌱 Estou estudando sobre Kubernetes, Docker, Python e Cloud Computing. Estou avançando meus estudos em DevOps e computação em nuvem com cursos na Alura e o Google Cloud Computing Foundations Certificate.
